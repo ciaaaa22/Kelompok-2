@@ -28,7 +28,9 @@
     </ul>
 
     <h2>Contoh Gambar</h2>
+    <h2>Contoh Gambar 2</h2>
     <img src="https://via.placeholder.com/150" alt="Contoh gambar">
+    <img src="https://via.placeholder.com/150" alt="Contoh gambar 2">
 
     <h2>Link</h2>
     <p>Kunjungi <a href="https://github.com" target="_blank">GitHub</a> untuk belajar lebih lanjut.</p>
