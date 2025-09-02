@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Belajar HTML</title>
+</head>
+<body>
+    <h1>Halo, Selamat Datang!</h1>
+    <p>Ini adalah halaman web sederhana yang dibuat dengan HTML.</p>
+
+    <h2>Daftar Kegiatan:</h2>
+    <ul>
+        <li>Belajar HTML</li>
+        <li>Belajar CSS</li>
+        <li>Belajar JavaScript</li>
+    </ul>
+
+    <h2>Contoh Gambar</h2>
+    <img src="https://via.placeholder.com/150" alt="Contoh gambar">
+
+    <h2>Link</h2>
+    <p>Kunjungi <a href="https://github.com" target="_blank">GitHub</a> untuk belajar lebih lanjut.</p>
+</body>
+</html>
